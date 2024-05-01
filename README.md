@@ -7,9 +7,9 @@ I'm Zaryab, a 4+ years Full Stack Developer from Pakistan.
 
 
 - 👨‍💻 Working at [NXB]([[https://communitylabs.com](https://nextbridge.com/)](https://nextbridge.com/)) 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
+- 🧭 Founder 
 
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+- 👥 Core team member at 
 
 + a lot more ;)
 
@@ -21,6 +21,4 @@ I'm Zaryab, a 4+ years Full Stack Developer from Pakistan.
 + a lot more :D
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](./) on Discord
+- [@](./) on Discord
