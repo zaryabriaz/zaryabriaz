@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img alt="Zaryab Riaz" />
-</h1>
-
 ## Hey! 👋
 I'm Zaryab, a 4+ years Full Stack Developer from Pakistan.
 
