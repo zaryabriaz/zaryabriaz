@@ -14,7 +14,7 @@ I'm Zaryab, a 4+ years Full Stack Developer from Pakistan.
 - 👨‍💻 Ruby, Rails, TypeScript, JavaScript, C, C++ etc...
 - ⚙️ React, Rails, Vue
 - 👁️ SASS, CSS, Tailwind
-- 💽 MySQL, SQL, Mongo
+- 💽 MySQL, SQL, MongoDB
 + a lot more :D
 
 ## Contact
